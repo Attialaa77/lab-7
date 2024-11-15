@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #81a5f7;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    font-size: 16px;
+  }
+  
+  input {
+    padding: 8px;
+    font-size: 16px;
+    margin-top: 5px;
+  }
+  
+  p {
+    color: #f30c0c;
+  }
+  
